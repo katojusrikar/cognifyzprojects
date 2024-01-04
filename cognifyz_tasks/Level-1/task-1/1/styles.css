@@ -1,0 +1,19 @@
+h1{
+    font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
+    font-size: 69px;
+    padding-left: 30%;
+    color:#0F0FFF;
+}
+p{
+    font-family:'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
+    padding-left: 20%;
+    color:#FF0BDB;
+}
+img{
+    border-radius: 50%;
+    
+    height: 300px;
+}
+body{
+    background-color: aquamarine;
+}
